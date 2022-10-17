@@ -28,7 +28,9 @@ X Education has appointed you to help them select the most promising leads, i.e.
 10. Prediction on test set
 11. Precision- Recall
 
-## Attachments:
+## Files Attached:
 * Assignment Subjective Questions.pdf - Subjective questions
 * Lead Score Case Study.pdf- Presentation
-* 
+* Summary.pdf - Summary report
+* Lead Case Study.ipynb - Python commented file 
+
