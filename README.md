@@ -19,7 +19,7 @@ X Education has appointed you to help them select the most promising leads, i.e.
 1. Reading Data
 2. Cleaning Data
 3. EDA
-4. Creating Dummy
+4. Creating Dummy 
 5. Splitting data into train and test set
 6. Building Model
 7. Making Predictions
@@ -29,3 +29,5 @@ X Education has appointed you to help them select the most promising leads, i.e.
 11. Precision- Recall
 
 ## Attachments:
+* Assignment Subjective Questions.pdf - Subjective questions
+* 
