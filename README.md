@@ -30,4 +30,5 @@ X Education has appointed you to help them select the most promising leads, i.e.
 
 ## Attachments:
 * Assignment Subjective Questions.pdf - Subjective questions
+* Lead Score Case Study.pdf- Presentation
 * 
